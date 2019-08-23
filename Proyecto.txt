@@ -1,0 +1,4 @@
+-Requrimientos de ciertas unidades organizacionales de la FISI
+-Aplicación pequeña que sea de utilidad
+-GUI(Jtable)
+-HIBERNATE (Framework de persistencia opcional)
